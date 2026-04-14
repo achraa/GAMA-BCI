@@ -1,5 +1,8 @@
 # GAMA-BCI
 
+Our latest methodology is publicly available on Kaggle:
+https://www.kaggle.com/code/hamzaharmanhusni/gama-bci-idsc-2026?scriptVersionId=310477986
+
 A lightweight P300-based Brain-Computer Interface system that combines EEGNet with probabilistic eye tracking for enhanced speller decoding. Built with PyTorch backend (FastAPI) and Streamlit frontend.
 
 ## Project Structure
